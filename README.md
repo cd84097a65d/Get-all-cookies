@@ -1,4 +1,4 @@
-# A helper to remove a notification to accept the cookies
+# A VBA helper to remove a notification to accept the cookies
 The table contains VBA code that uses “SeleniumBasic” to open the desired web page with Chrome and:
 - Write out all cookies that were set when you press an “Accept cookies” button (use “Write out all cookies” button)
 - Check if the selected cookies remove the “Accept cookies” popup window after reloading of the page (use “Check selected cookies” button)
